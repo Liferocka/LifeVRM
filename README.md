@@ -13,3 +13,4 @@ Cadet_C_emmit.vrm
 
 Cadet_C_scroll.vrm
 Cadet_trippy.vrm
+https://raw.githubusercontent.com/Liferocka/LifeVRM/main/Cadetsy.vrm
